@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6196436622",
+    "project_id": "umessag",
+    "storage_bucket": "umessag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6196436622:android:e0c99695cf9716a4af33df",
+        "android_client_info": {
+          "package_name": "com.umessag.proyecto_sistema_mensajeria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8a06A5DQv5zFJi9wGC3JhUoCbppsx5rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6196436622:android:6d693faed67ac0caaf33df",
+        "android_client_info": {
+          "package_name": "pruebas.pruebas.pruebas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8a06A5DQv5zFJi9wGC3JhUoCbppsx5rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
